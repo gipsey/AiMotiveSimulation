@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "aimotive.simulation.app-debug-53:/drawable_location_dot.xml.flat",
+        "source": "aimotive.simulation.app-main-55:/drawable/location_dot.xml"
+    },
+    {
+        "merged": "aimotive.simulation.app-debug-53:/drawable_ic_launcher_background.xml.flat",
+        "source": "aimotive.simulation.app-main-55:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "aimotive.simulation.app-debug-53:/drawable_location_static_dot.xml.flat",
+        "source": "aimotive.simulation.app-main-55:/drawable/location_static_dot.xml"
+    },
+    {
+        "merged": "aimotive.simulation.app-debug-53:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "aimotive.simulation.app-main-55:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "aimotive.simulation.app-debug-53:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "aimotive.simulation.app-main-55:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "aimotive.simulation.app-debug-53:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "aimotive.simulation.app-main-55:/mipmap-anydpi/ic_launcher_round.xml"
+    }
+]

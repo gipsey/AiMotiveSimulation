@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/.cxx/Debug/4j145728/x86",
+  "command": "/Users/david.debre/Library/Android/sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android31 --sysroot=/Users/david.debre/Library/Android/sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dfile_persistence_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/file-persistence.dir/file-persistence-lib.cpp.o -c /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/cpp/file-persistence-lib.cpp",
+  "file": "/Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/cpp/file-persistence-lib.cpp"
+}
+]

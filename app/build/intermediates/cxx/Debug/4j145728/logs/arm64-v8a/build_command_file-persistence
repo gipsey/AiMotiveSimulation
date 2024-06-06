@@ -1,0 +1,4 @@
+/Users/david.debre/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/.cxx/Debug/4j145728/arm64-v8a \
+  file-persistence

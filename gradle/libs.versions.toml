@@ -1,0 +1,58 @@
+[versions]
+# @keep this version, as it is not used in a dependency declaration
+config-minSdk = "31"
+# @keep this version, as it is not used in a dependency declaration
+config-targetSdk = "34"
+# @keep this version, as it is not used in a dependency declaration
+config-compileSdk = "34"
+# https://developer.android.com/studio/releases/gradle-plugin
+android-gradle-plugin = "8.4.1"
+# https://cmake.org/cmake/help/latest/variable/ANDROID.html
+cmake = "3.22.1"
+# https://developer.android.com/ndk/downloads/revision_history
+ndk = "26.3.11579264"
+# https://kotlinlang.org/docs/releases.html
+kotlin = "1.9.23"
+# https://developer.android.com/jetpack/androidx/releases/compose-kotlin
+# https://maven.google.com/web/index.html#androidx.compose.compiler:compiler
+# @keep this version, as it is not used in a dependency declaration
+kotlin-compose-compiler = "1.5.13"
+# https://developer.android.com/jetpack/androidx/releases/core
+androidx-ktx-core = "1.13.1"
+# https://developer.android.com/jetpack/androidx/releases/activity
+compose-activity = "1.9.0"
+# https://developer.android.com/jetpack/androidx/releases/compose
+# https://developer.android.com/jetpack/compose/bom/bom-mapping
+# https://maven.google.com/web/index.html#androidx.compose:compose-bom
+compose-bom = "2024.05.00"
+# https://developer.android.com/jetpack/androidx/releases/lifecycle
+# @pin this version, since there is an inconsitency in 2.8.0 with compose-bom 2024.05.00 (Compose 1.6.7), regarding LocalLifecycleOwner
+lifecycle-runtime-compose = "2.7.0"
+# https://developers.google.com/android/guides/releases
+play-services-location = "21.2.0"
+# https://github.com/maplibre/maplibre-native/blob/main/platform/android/CHANGELOG.md
+maplibre-gl = "11.0.0"
+# https://github.com/maplibre/maplibre-plugins-android/blob/main/plugin-annotation/CHANGELOG.md
+# https://central.sonatype.com/artifact/org.maplibre.gl/android-plugin-annotation-v9/versions
+maplibre-gl-plugin-annotation-v9 = "3.0.0"
+
+[libraries]
+androidx-core-ktx = { module = "androidx.core:core-ktx", version.ref = "androidx-ktx-core" }
+androidx-activity-compose = { module = "androidx.activity:activity-compose", version.ref = "compose-activity" }
+
+androidx-compose-bom = { module = "androidx.compose:compose-bom", version.ref = "compose-bom" }
+androidx-compose-ui = { module = "androidx.compose.ui:ui" }
+androidx-compose-ui-tooling = { module = "androidx.compose.ui:ui-tooling" }
+androidx-compose-ui-tooling-preview = { module = "androidx.compose.ui:ui-tooling-preview" }
+androidx-compose-material3 = { module = "androidx.compose.material3:material3" }
+
+androidx-lifecycle-runtime-compose = { module = "androidx.lifecycle:lifecycle-runtime-compose", version.ref = "lifecycle-runtime-compose" }
+
+play-services-location = { module = "com.google.android.gms:play-services-location", version.ref = "play-services-location" }
+
+maplibre-gl-sdk = { module = "org.maplibre.gl:android-sdk", version.ref = "maplibre-gl" }
+maplibre-gl-plugin-annotation-v9 = { module = "org.maplibre.gl:android-plugin-annotation-v9", version.ref = "maplibre-gl-plugin-annotation-v9" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "android-gradle-plugin" }
+jetbrains-kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }

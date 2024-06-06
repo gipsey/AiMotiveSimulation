@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable location_dot
+drawable location_static_dot
+mipmap ic_launcher
+mipmap ic_launcher_round
+string agree
+string app_name
+string cancel
+string error_sad
+string locate
+string location_access_deny_error
+string location_access_deny_error_settings
+string location_access_rationale
+string location_access_rationale_title
+string location_connection_lost
+string location_settings_deny_error
+string location_settings_error
+string settings
+string try_again
+style Theme.AiMotiveSimulation

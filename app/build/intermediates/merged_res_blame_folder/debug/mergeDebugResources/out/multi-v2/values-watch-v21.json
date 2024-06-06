@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "aimotive.simulation.app-mergeDebugResources-51:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/david.debre/.gradle/caches/transforms-4/5bec69b9b41f64495d1b597fa99cd731/transformed/appcompat-1.0.0/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

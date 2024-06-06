@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AiMotiveSimulation</string>
+    <string name="error_sad">:(</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="agree">Agree</string>
+    <string name="try_again">Try again</string>
+    <string name="settings">Settings</string>
+
+    <string name="locate">Locate me</string>
+
+    <string name="location_access_rationale_title">Granting location access</string>
+    <string name="location_access_rationale">In order to position the map to your location, the app must have your permission to access location services.\nDo you agree to share your location with the app ?</string>
+    <string name="location_access_deny_error">Since you\'ve denied access to your location, you could not be located on the map.</string>
+    <string name="location_access_deny_error_settings">Since you\'ve denied access to your precise location, you can grant your permission only in the app\'s settings.</string>
+    <string name="location_settings_deny_error">Since the GPS was not turned in, you could not be located on the map.</string>
+    <string name="location_settings_error">Unfortunately the GPS could not be managed at the moment.\nPlease try enabling you GPS by yourself.</string>
+    <string name="location_connection_lost">Unfortunately the GPS connectivity was lost.</string>
+
+</resources>

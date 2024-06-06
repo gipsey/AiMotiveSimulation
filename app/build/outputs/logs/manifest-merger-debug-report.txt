@@ -1,0 +1,443 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-location:21.2.0] /Users/david.debre/.gradle/caches/transforms-4/b6cc7b49b164d51fab328d8420ca6265/transformed/play-services-location-21.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/david.debre/.gradle/caches/transforms-4/555839d2c0b0c0d9ec121169d51007c1/transformed/play-services-base-18.3.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/david.debre/.gradle/caches/transforms-4/f4051fefa6760d3778d6dda7c5b94e98/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/david.debre/.gradle/caches/transforms-4/585b3a2fa7f25998317c79f41fca18e6/transformed/play-services-basement-18.3.0/AndroidManifest.xml:16:1-26:12
+MERGED from [org.maplibre.gl:android-plugin-annotation-v9:3.0.0] /Users/david.debre/.gradle/caches/transforms-4/232c10eb32c9983ad71be49da216dcd1/transformed/android-plugin-annotation-v9-3.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [org.maplibre.gl:android-sdk:11.0.0] /Users/david.debre/.gradle/caches/transforms-4/de876319038e7cfa5a653148792bf51b/transformed/android-sdk-11.0.0/AndroidManifest.xml:2:1-20:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.7.0] /Users/david.debre/.gradle/caches/transforms-4/047fdef475a81254459a27d6dcad871b/transformed/mapbox-android-gestures-0.7.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/5bec69b9b41f64495d1b597fa99cd731/transformed/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /Users/david.debre/.gradle/caches/transforms-4/9963813380311fcaac02211c953272bb/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.6.2] /Users/david.debre/.gradle/caches/transforms-4/29760cf6d0faf1b86d02393f7529796d/transformed/fragment-1.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/david.debre/.gradle/caches/transforms-4/09413f1615e5b53224b001f505f8ef54/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/95b4ea7eb03e997d2f3692847fa4bc49/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/0966d4bf023c94ed92de817862264743/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/b86867d0c764afb71cda6dc3cb8e2ffe/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/david.debre/.gradle/caches/transforms-4/455b041015202cfb9b1da2b9d27155dd/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/c581cdddfe712ea2705ee02b3d43f635/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/d6df102e887d3b4c8f6a15d1e24489ff/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/65cdbd2c0591859d9e0d33700128b960/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/be284602042f68644b4cf9dbeb7168a4/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/bf1c8e357dadbac5bfaed619f38d6139/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/19326040b72c40a8ce925cffb5bcfb72/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/278d6c5d39568dc97754da238a19ad3f/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/1e6b534a0019016f788c5971596d1113/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/bc0ceb9896a03302d5d59a3368ff665a/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/4187a1e6256e56e6a08b7a06630fc65a/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/70d4a0a4456c5c4ee787ff8445375152/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/5632cffd3634f13e3011cfabcd63fa38/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/c5d8411da02a8a46774f59250d920af1/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/27a451e69e55acbe5a472e60e59d5b42/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/15bccdd73bf64603c1aca6c01f60a068/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/david.debre/.gradle/caches/transforms-4/ba4e66d6560520a8813edd07434d7ba5/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/70d3de5b9c1ee7c0c7b67b6ee223f539/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/3d446f0f3cb04751a1d8a8fff46e6791/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/b9524065fb727143ef58c17bd4416f65/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/278aecf16e961f38ad1b14c8efa9105d/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/bb92ce0effa56cc750605b1e8c0a2d68/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/03cdad9280d48d01e2de3581277419a7/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/ae1318478405ae08b3d0e6929d991266/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/3e3fea320c47ec5940b379fb134eea85/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/6d89c2db6c10d27b11dde28c9fc812d5/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/16726e2bd54634bf19f8f175a87144bb/transformed/lifecycle-runtime-compose-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/d78ee59e82c9a5f7cc0226d97d8d88e5/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/a5dd9d558ab4f9833627836cd7dcf580/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity-compose:1.9.0] /Users/david.debre/.gradle/caches/transforms-4/1e1e199ea8bb1ac4b594aa92380c6835/transformed/activity-compose-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/david.debre/.gradle/caches/transforms-4/29b335d7f27a0de99b608930713fbb03/transformed/activity-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.9.0] /Users/david.debre/.gradle/caches/transforms-4/857b8b83df3fce5d432ef84d7ce825a1/transformed/activity-1.9.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/2be66174bd6b328d93308bd13f0c39f7/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/96080b3fe9851a107a80b7d4b50828aa/transformed/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/08a0d6fd9a6ff2548bde21b32c445ffb/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/87cad70c77f9b81c705a7420479389d5/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/2564a16d74af3e2f490d73d3c476949e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/06e7bb02ad7afe14b6a8164dacf20088/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/11f0c267e15be736bfdb2ce05edacfe3/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/3327b0e2be0d15f4ead8ef60bba36153/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/8b81ae10eb82b5b9264fc9c3fa700141/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] /Users/david.debre/.gradle/caches/transforms-4/73f49cdda22fb929fd609266468dbda3/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/add090a5651eb9c7f0f76eb8c4bf2068/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/david.debre/.gradle/caches/transforms-4/0293dea618c815bfd039070339711b9a/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.jakewharton.timber:timber:5.0.1] /Users/david.debre/.gradle/caches/transforms-4/917c809a8b0921be5d7ef5b318e3889b/transformed/timber-5.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/david.debre/.gradle/caches/transforms-4/a0b94cc1e29c5b8d134d833ae32e5e7d/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/b6ba94d2ea75fea8e625854aeb6b2c74/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/64250c01cee21d7cd54000ef7e7d3d64/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/d6c9d4d77405aa2325d203155eed0909/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/david.debre/.gradle/caches/transforms-4/341fc69ef0d31c6f1628fb2b6c6ea9b4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/36345bed239bf771cd8e9e046057b392/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/david.debre/.gradle/caches/transforms-4/fdc6e0048ee12a5b040512dbcc793735/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/david.debre/.gradle/caches/transforms-4/ec7c6be4ef007298be74bb09edecb7ee/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/4c2adff0cfdca6959a69435b83cdb722/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/ed1c17d6306ad8ff8cc0fe36ae08829a/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/def5e1c2aa6b50d18becbe16e9fcafec/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/efbcdcefba87222eb2d4d9e2b400acea/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:4:5-81
+MERGED from [org.maplibre.gl:android-sdk:11.0.0] /Users/david.debre/.gradle/caches/transforms-4/de876319038e7cfa5a653148792bf51b/transformed/android-sdk-11.0.0/AndroidManifest.xml:17:5-81
+MERGED from [org.maplibre.gl:android-sdk:11.0.0] /Users/david.debre/.gradle/caches/transforms-4/de876319038e7cfa5a653148792bf51b/transformed/android-sdk-11.0.0/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:4:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:5:5-79
+MERGED from [org.maplibre.gl:android-sdk:11.0.0] /Users/david.debre/.gradle/caches/transforms-4/de876319038e7cfa5a653148792bf51b/transformed/android-sdk-11.0.0/AndroidManifest.xml:18:5-79
+MERGED from [org.maplibre.gl:android-sdk:11.0.0] /Users/david.debre/.gradle/caches/transforms-4/de876319038e7cfa5a653148792bf51b/transformed/android-sdk-11.0.0/AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:5:22-76
+application
+ADDED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:7:5-24:19
+INJECTED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.google.android.gms:play-services-location:21.2.0] /Users/david.debre/.gradle/caches/transforms-4/b6cc7b49b164d51fab328d8420ca6265/transformed/play-services-location-21.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.2.0] /Users/david.debre/.gradle/caches/transforms-4/b6cc7b49b164d51fab328d8420ca6265/transformed/play-services-location-21.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/david.debre/.gradle/caches/transforms-4/555839d2c0b0c0d9ec121169d51007c1/transformed/play-services-base-18.3.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/david.debre/.gradle/caches/transforms-4/555839d2c0b0c0d9ec121169d51007c1/transformed/play-services-base-18.3.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/david.debre/.gradle/caches/transforms-4/f4051fefa6760d3778d6dda7c5b94e98/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/david.debre/.gradle/caches/transforms-4/f4051fefa6760d3778d6dda7c5b94e98/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/david.debre/.gradle/caches/transforms-4/585b3a2fa7f25998317c79f41fca18e6/transformed/play-services-basement-18.3.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/david.debre/.gradle/caches/transforms-4/585b3a2fa7f25998317c79f41fca18e6/transformed/play-services-basement-18.3.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/david.debre/.gradle/caches/transforms-4/ba4e66d6560520a8813edd07434d7ba5/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/david.debre/.gradle/caches/transforms-4/ba4e66d6560520a8813edd07434d7ba5/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/70d3de5b9c1ee7c0c7b67b6ee223f539/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/70d3de5b9c1ee7c0c7b67b6ee223f539/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/a5dd9d558ab4f9833627836cd7dcf580/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/a5dd9d558ab4f9833627836cd7dcf580/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.13.1] /Users/david.debre/.gradle/caches/transforms-4/73f49cdda22fb929fd609266468dbda3/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /Users/david.debre/.gradle/caches/transforms-4/73f49cdda22fb929fd609266468dbda3/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [com.jakewharton.timber:timber:5.0.1] /Users/david.debre/.gradle/caches/transforms-4/917c809a8b0921be5d7ef5b318e3889b/transformed/timber-5.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:5.0.1] /Users/david.debre/.gradle/caches/transforms-4/917c809a8b0921be5d7ef5b318e3889b/transformed/timber-5.0.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/david.debre/.gradle/caches/transforms-4/341fc69ef0d31c6f1628fb2b6c6ea9b4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/david.debre/.gradle/caches/transforms-4/341fc69ef0d31c6f1628fb2b6c6ea9b4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/david.debre/.gradle/caches/transforms-4/ec7c6be4ef007298be74bb09edecb7ee/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/david.debre/.gradle/caches/transforms-4/ec7c6be4ef007298be74bb09edecb7ee/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /Users/david.debre/.gradle/caches/transforms-4/73f49cdda22fb929fd609266468dbda3/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:12:9-56
+activity#aimotive.simulation.MainActivity
+ADDED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:14:9-23:20
+	android:exported
+		ADDED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:16:13-36
+	android:theme
+		ADDED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:17:13-60
+	android:name
+		ADDED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml
+INJECTED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-location:21.2.0] /Users/david.debre/.gradle/caches/transforms-4/b6cc7b49b164d51fab328d8420ca6265/transformed/play-services-location-21.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.2.0] /Users/david.debre/.gradle/caches/transforms-4/b6cc7b49b164d51fab328d8420ca6265/transformed/play-services-location-21.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/david.debre/.gradle/caches/transforms-4/555839d2c0b0c0d9ec121169d51007c1/transformed/play-services-base-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/david.debre/.gradle/caches/transforms-4/555839d2c0b0c0d9ec121169d51007c1/transformed/play-services-base-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/david.debre/.gradle/caches/transforms-4/f4051fefa6760d3778d6dda7c5b94e98/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/david.debre/.gradle/caches/transforms-4/f4051fefa6760d3778d6dda7c5b94e98/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/david.debre/.gradle/caches/transforms-4/585b3a2fa7f25998317c79f41fca18e6/transformed/play-services-basement-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/david.debre/.gradle/caches/transforms-4/585b3a2fa7f25998317c79f41fca18e6/transformed/play-services-basement-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [org.maplibre.gl:android-plugin-annotation-v9:3.0.0] /Users/david.debre/.gradle/caches/transforms-4/232c10eb32c9983ad71be49da216dcd1/transformed/android-plugin-annotation-v9-3.0.0/AndroidManifest.xml:5:5-44
+MERGED from [org.maplibre.gl:android-plugin-annotation-v9:3.0.0] /Users/david.debre/.gradle/caches/transforms-4/232c10eb32c9983ad71be49da216dcd1/transformed/android-plugin-annotation-v9-3.0.0/AndroidManifest.xml:5:5-44
+MERGED from [org.maplibre.gl:android-sdk:11.0.0] /Users/david.debre/.gradle/caches/transforms-4/de876319038e7cfa5a653148792bf51b/transformed/android-sdk-11.0.0/AndroidManifest.xml:5:5-44
+MERGED from [org.maplibre.gl:android-sdk:11.0.0] /Users/david.debre/.gradle/caches/transforms-4/de876319038e7cfa5a653148792bf51b/transformed/android-sdk-11.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.7.0] /Users/david.debre/.gradle/caches/transforms-4/047fdef475a81254459a27d6dcad871b/transformed/mapbox-android-gestures-0.7.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.7.0] /Users/david.debre/.gradle/caches/transforms-4/047fdef475a81254459a27d6dcad871b/transformed/mapbox-android-gestures-0.7.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/5bec69b9b41f64495d1b597fa99cd731/transformed/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/5bec69b9b41f64495d1b597fa99cd731/transformed/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /Users/david.debre/.gradle/caches/transforms-4/9963813380311fcaac02211c953272bb/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /Users/david.debre/.gradle/caches/transforms-4/9963813380311fcaac02211c953272bb/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] /Users/david.debre/.gradle/caches/transforms-4/29760cf6d0faf1b86d02393f7529796d/transformed/fragment-1.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] /Users/david.debre/.gradle/caches/transforms-4/29760cf6d0faf1b86d02393f7529796d/transformed/fragment-1.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/david.debre/.gradle/caches/transforms-4/09413f1615e5b53224b001f505f8ef54/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/david.debre/.gradle/caches/transforms-4/09413f1615e5b53224b001f505f8ef54/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/95b4ea7eb03e997d2f3692847fa4bc49/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/95b4ea7eb03e997d2f3692847fa4bc49/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/0966d4bf023c94ed92de817862264743/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/0966d4bf023c94ed92de817862264743/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/b86867d0c764afb71cda6dc3cb8e2ffe/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/b86867d0c764afb71cda6dc3cb8e2ffe/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/david.debre/.gradle/caches/transforms-4/455b041015202cfb9b1da2b9d27155dd/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/david.debre/.gradle/caches/transforms-4/455b041015202cfb9b1da2b9d27155dd/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/c581cdddfe712ea2705ee02b3d43f635/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/c581cdddfe712ea2705ee02b3d43f635/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/d6df102e887d3b4c8f6a15d1e24489ff/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/d6df102e887d3b4c8f6a15d1e24489ff/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/65cdbd2c0591859d9e0d33700128b960/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/65cdbd2c0591859d9e0d33700128b960/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/be284602042f68644b4cf9dbeb7168a4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/be284602042f68644b4cf9dbeb7168a4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/bf1c8e357dadbac5bfaed619f38d6139/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/bf1c8e357dadbac5bfaed619f38d6139/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/19326040b72c40a8ce925cffb5bcfb72/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/19326040b72c40a8ce925cffb5bcfb72/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/278d6c5d39568dc97754da238a19ad3f/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/278d6c5d39568dc97754da238a19ad3f/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/1e6b534a0019016f788c5971596d1113/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/1e6b534a0019016f788c5971596d1113/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/bc0ceb9896a03302d5d59a3368ff665a/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/bc0ceb9896a03302d5d59a3368ff665a/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/4187a1e6256e56e6a08b7a06630fc65a/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/4187a1e6256e56e6a08b7a06630fc65a/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/70d4a0a4456c5c4ee787ff8445375152/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/70d4a0a4456c5c4ee787ff8445375152/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/5632cffd3634f13e3011cfabcd63fa38/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/5632cffd3634f13e3011cfabcd63fa38/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/c5d8411da02a8a46774f59250d920af1/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/c5d8411da02a8a46774f59250d920af1/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/27a451e69e55acbe5a472e60e59d5b42/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/27a451e69e55acbe5a472e60e59d5b42/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/15bccdd73bf64603c1aca6c01f60a068/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/15bccdd73bf64603c1aca6c01f60a068/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/david.debre/.gradle/caches/transforms-4/ba4e66d6560520a8813edd07434d7ba5/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/david.debre/.gradle/caches/transforms-4/ba4e66d6560520a8813edd07434d7ba5/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/70d3de5b9c1ee7c0c7b67b6ee223f539/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/70d3de5b9c1ee7c0c7b67b6ee223f539/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/3d446f0f3cb04751a1d8a8fff46e6791/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/3d446f0f3cb04751a1d8a8fff46e6791/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/b9524065fb727143ef58c17bd4416f65/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/b9524065fb727143ef58c17bd4416f65/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/278aecf16e961f38ad1b14c8efa9105d/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/278aecf16e961f38ad1b14c8efa9105d/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/bb92ce0effa56cc750605b1e8c0a2d68/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/bb92ce0effa56cc750605b1e8c0a2d68/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/03cdad9280d48d01e2de3581277419a7/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/03cdad9280d48d01e2de3581277419a7/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/ae1318478405ae08b3d0e6929d991266/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/ae1318478405ae08b3d0e6929d991266/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/3e3fea320c47ec5940b379fb134eea85/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/3e3fea320c47ec5940b379fb134eea85/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/6d89c2db6c10d27b11dde28c9fc812d5/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/6d89c2db6c10d27b11dde28c9fc812d5/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/16726e2bd54634bf19f8f175a87144bb/transformed/lifecycle-runtime-compose-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/16726e2bd54634bf19f8f175a87144bb/transformed/lifecycle-runtime-compose-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/d78ee59e82c9a5f7cc0226d97d8d88e5/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/d78ee59e82c9a5f7cc0226d97d8d88e5/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/a5dd9d558ab4f9833627836cd7dcf580/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/a5dd9d558ab4f9833627836cd7dcf580/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.9.0] /Users/david.debre/.gradle/caches/transforms-4/1e1e199ea8bb1ac4b594aa92380c6835/transformed/activity-compose-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.0] /Users/david.debre/.gradle/caches/transforms-4/1e1e199ea8bb1ac4b594aa92380c6835/transformed/activity-compose-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/david.debre/.gradle/caches/transforms-4/29b335d7f27a0de99b608930713fbb03/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/david.debre/.gradle/caches/transforms-4/29b335d7f27a0de99b608930713fbb03/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.9.0] /Users/david.debre/.gradle/caches/transforms-4/857b8b83df3fce5d432ef84d7ce825a1/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] /Users/david.debre/.gradle/caches/transforms-4/857b8b83df3fce5d432ef84d7ce825a1/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/2be66174bd6b328d93308bd13f0c39f7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/2be66174bd6b328d93308bd13f0c39f7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/96080b3fe9851a107a80b7d4b50828aa/transformed/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/96080b3fe9851a107a80b7d4b50828aa/transformed/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/08a0d6fd9a6ff2548bde21b32c445ffb/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/08a0d6fd9a6ff2548bde21b32c445ffb/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/87cad70c77f9b81c705a7420479389d5/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/87cad70c77f9b81c705a7420479389d5/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/2564a16d74af3e2f490d73d3c476949e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/2564a16d74af3e2f490d73d3c476949e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/06e7bb02ad7afe14b6a8164dacf20088/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/06e7bb02ad7afe14b6a8164dacf20088/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/11f0c267e15be736bfdb2ce05edacfe3/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/11f0c267e15be736bfdb2ce05edacfe3/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/3327b0e2be0d15f4ead8ef60bba36153/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/3327b0e2be0d15f4ead8ef60bba36153/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/8b81ae10eb82b5b9264fc9c3fa700141/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/8b81ae10eb82b5b9264fc9c3fa700141/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/david.debre/.gradle/caches/transforms-4/73f49cdda22fb929fd609266468dbda3/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/david.debre/.gradle/caches/transforms-4/73f49cdda22fb929fd609266468dbda3/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/add090a5651eb9c7f0f76eb8c4bf2068/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/add090a5651eb9c7f0f76eb8c4bf2068/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/david.debre/.gradle/caches/transforms-4/0293dea618c815bfd039070339711b9a/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/david.debre/.gradle/caches/transforms-4/0293dea618c815bfd039070339711b9a/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.timber:timber:5.0.1] /Users/david.debre/.gradle/caches/transforms-4/917c809a8b0921be5d7ef5b318e3889b/transformed/timber-5.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.timber:timber:5.0.1] /Users/david.debre/.gradle/caches/transforms-4/917c809a8b0921be5d7ef5b318e3889b/transformed/timber-5.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/david.debre/.gradle/caches/transforms-4/a0b94cc1e29c5b8d134d833ae32e5e7d/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/david.debre/.gradle/caches/transforms-4/a0b94cc1e29c5b8d134d833ae32e5e7d/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/b6ba94d2ea75fea8e625854aeb6b2c74/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/b6ba94d2ea75fea8e625854aeb6b2c74/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/64250c01cee21d7cd54000ef7e7d3d64/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/64250c01cee21d7cd54000ef7e7d3d64/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/d6c9d4d77405aa2325d203155eed0909/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/d6c9d4d77405aa2325d203155eed0909/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/david.debre/.gradle/caches/transforms-4/341fc69ef0d31c6f1628fb2b6c6ea9b4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/david.debre/.gradle/caches/transforms-4/341fc69ef0d31c6f1628fb2b6c6ea9b4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/36345bed239bf771cd8e9e046057b392/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/36345bed239bf771cd8e9e046057b392/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/david.debre/.gradle/caches/transforms-4/fdc6e0048ee12a5b040512dbcc793735/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/david.debre/.gradle/caches/transforms-4/fdc6e0048ee12a5b040512dbcc793735/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/david.debre/.gradle/caches/transforms-4/ec7c6be4ef007298be74bb09edecb7ee/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/david.debre/.gradle/caches/transforms-4/ec7c6be4ef007298be74bb09edecb7ee/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/4c2adff0cfdca6959a69435b83cdb722/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/4c2adff0cfdca6959a69435b83cdb722/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/ed1c17d6306ad8ff8cc0fe36ae08829a/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/ed1c17d6306ad8ff8cc0fe36ae08829a/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/def5e1c2aa6b50d18becbe16e9fcafec/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/def5e1c2aa6b50d18becbe16e9fcafec/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/efbcdcefba87222eb2d4d9e2b400acea/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/david.debre/.gradle/caches/transforms-4/efbcdcefba87222eb2d4d9e2b400acea/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/david.debre/Desktop/Projects/PERSONAL/AiMotiveSimulation/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.3.0] /Users/david.debre/.gradle/caches/transforms-4/555839d2c0b0c0d9ec121169d51007c1/transformed/play-services-base-18.3.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] /Users/david.debre/.gradle/caches/transforms-4/555839d2c0b0c0d9ec121169d51007c1/transformed/play-services-base-18.3.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] /Users/david.debre/.gradle/caches/transforms-4/555839d2c0b0c0d9ec121169d51007c1/transformed/play-services-base-18.3.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] /Users/david.debre/.gradle/caches/transforms-4/555839d2c0b0c0d9ec121169d51007c1/transformed/play-services-base-18.3.0/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] /Users/david.debre/.gradle/caches/transforms-4/585b3a2fa7f25998317c79f41fca18e6/transformed/play-services-basement-18.3.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] /Users/david.debre/.gradle/caches/transforms-4/585b3a2fa7f25998317c79f41fca18e6/transformed/play-services-basement-18.3.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] /Users/david.debre/.gradle/caches/transforms-4/585b3a2fa7f25998317c79f41fca18e6/transformed/play-services-basement-18.3.0/AndroidManifest.xml:22:13-58
+uses-feature#0x00030000
+ADDED from [org.maplibre.gl:android-sdk:11.0.0] /Users/david.debre/.gradle/caches/transforms-4/de876319038e7cfa5a653148792bf51b/transformed/android-sdk-11.0.0/AndroidManifest.xml:7:5-9:35
+	android:glEsVersion
+		ADDED from [org.maplibre.gl:android-sdk:11.0.0] /Users/david.debre/.gradle/caches/transforms-4/de876319038e7cfa5a653148792bf51b/transformed/android-sdk-11.0.0/AndroidManifest.xml:8:9-41
+	android:required
+		ADDED from [org.maplibre.gl:android-sdk:11.0.0] /Users/david.debre/.gradle/caches/transforms-4/de876319038e7cfa5a653148792bf51b/transformed/android-sdk-11.0.0/AndroidManifest.xml:9:9-32
+uses-feature#android.hardware.wifi
+ADDED from [org.maplibre.gl:android-sdk:11.0.0] /Users/david.debre/.gradle/caches/transforms-4/de876319038e7cfa5a653148792bf51b/transformed/android-sdk-11.0.0/AndroidManifest.xml:10:5-12:36
+	android:required
+		ADDED from [org.maplibre.gl:android-sdk:11.0.0] /Users/david.debre/.gradle/caches/transforms-4/de876319038e7cfa5a653148792bf51b/transformed/android-sdk-11.0.0/AndroidManifest.xml:12:9-33
+	android:name
+		ADDED from [org.maplibre.gl:android-sdk:11.0.0] /Users/david.debre/.gradle/caches/transforms-4/de876319038e7cfa5a653148792bf51b/transformed/android-sdk-11.0.0/AndroidManifest.xml:11:9-45
+uses-permission#android.permission.INTERNET
+ADDED from [org.maplibre.gl:android-sdk:11.0.0] /Users/david.debre/.gradle/caches/transforms-4/de876319038e7cfa5a653148792bf51b/transformed/android-sdk-11.0.0/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from [org.maplibre.gl:android-sdk:11.0.0] /Users/david.debre/.gradle/caches/transforms-4/de876319038e7cfa5a653148792bf51b/transformed/android-sdk-11.0.0/AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [org.maplibre.gl:android-sdk:11.0.0] /Users/david.debre/.gradle/caches/transforms-4/de876319038e7cfa5a653148792bf51b/transformed/android-sdk-11.0.0/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from [org.maplibre.gl:android-sdk:11.0.0] /Users/david.debre/.gradle/caches/transforms-4/de876319038e7cfa5a653148792bf51b/transformed/android-sdk-11.0.0/AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [org.maplibre.gl:android-sdk:11.0.0] /Users/david.debre/.gradle/caches/transforms-4/de876319038e7cfa5a653148792bf51b/transformed/android-sdk-11.0.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [org.maplibre.gl:android-sdk:11.0.0] /Users/david.debre/.gradle/caches/transforms-4/de876319038e7cfa5a653148792bf51b/transformed/android-sdk-11.0.0/AndroidManifest.xml:16:22-73
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/david.debre/.gradle/caches/transforms-4/ba4e66d6560520a8813edd07434d7ba5/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/70d3de5b9c1ee7c0c7b67b6ee223f539/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/70d3de5b9c1ee7c0c7b67b6ee223f539/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/david.debre/.gradle/caches/transforms-4/ec7c6be4ef007298be74bb09edecb7ee/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/david.debre/.gradle/caches/transforms-4/ec7c6be4ef007298be74bb09edecb7ee/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/david.debre/.gradle/caches/transforms-4/ba4e66d6560520a8813edd07434d7ba5/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/david.debre/.gradle/caches/transforms-4/ba4e66d6560520a8813edd07434d7ba5/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/david.debre/.gradle/caches/transforms-4/ba4e66d6560520a8813edd07434d7ba5/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/david.debre/.gradle/caches/transforms-4/ba4e66d6560520a8813edd07434d7ba5/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/david.debre/.gradle/caches/transforms-4/ba4e66d6560520a8813edd07434d7ba5/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/david.debre/.gradle/caches/transforms-4/ba4e66d6560520a8813edd07434d7ba5/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/david.debre/.gradle/caches/transforms-4/ba4e66d6560520a8813edd07434d7ba5/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/70d3de5b9c1ee7c0c7b67b6ee223f539/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/70d3de5b9c1ee7c0c7b67b6ee223f539/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/david.debre/.gradle/caches/transforms-4/70d3de5b9c1ee7c0c7b67b6ee223f539/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/a5dd9d558ab4f9833627836cd7dcf580/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/a5dd9d558ab4f9833627836cd7dcf580/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.7] /Users/david.debre/.gradle/caches/transforms-4/a5dd9d558ab4f9833627836cd7dcf580/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/david.debre/.gradle/caches/transforms-4/73f49cdda22fb929fd609266468dbda3/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/david.debre/.gradle/caches/transforms-4/73f49cdda22fb929fd609266468dbda3/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/david.debre/.gradle/caches/transforms-4/73f49cdda22fb929fd609266468dbda3/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#aimotive.simulation.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/david.debre/.gradle/caches/transforms-4/73f49cdda22fb929fd609266468dbda3/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/david.debre/.gradle/caches/transforms-4/73f49cdda22fb929fd609266468dbda3/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/david.debre/.gradle/caches/transforms-4/73f49cdda22fb929fd609266468dbda3/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/david.debre/.gradle/caches/transforms-4/73f49cdda22fb929fd609266468dbda3/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/david.debre/.gradle/caches/transforms-4/73f49cdda22fb929fd609266468dbda3/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#aimotive.simulation.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/david.debre/.gradle/caches/transforms-4/73f49cdda22fb929fd609266468dbda3/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/david.debre/.gradle/caches/transforms-4/73f49cdda22fb929fd609266468dbda3/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/david.debre/.gradle/caches/transforms-4/05c3b0726a711e83325f51af747a5003/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
